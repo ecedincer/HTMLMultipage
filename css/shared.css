@@ -1,0 +1,17 @@
+.search-button {
+    color:white;
+    border-color: white;
+}
+.search-button:hover {
+    color: blue;
+    border-color: lightgray;
+    background-color: white;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+}
+
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
