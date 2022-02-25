@@ -1,0 +1,9 @@
+.search-button {
+    color:white;
+    border-color: white;
+}
+.search-button:hover {
+    color: blue;
+    border-color: lightgray;
+    background-color: white;
+}
