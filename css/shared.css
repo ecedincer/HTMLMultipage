@@ -15,3 +15,11 @@
   .dropdown:hover .dropdown-content {
     display: block;
   }
+footer{
+    position:fixed;
+    bottom: 0;
+    height: 22px;
+    width: 100%;
+    background-color: aqua;
+    padding-left: 10px;
+}
